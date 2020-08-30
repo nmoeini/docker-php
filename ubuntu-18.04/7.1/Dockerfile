@@ -1,6 +1,6 @@
-FROM ubuntu:bionic-20200713
+FROM ubuntu:bionic-20200807
 
-LABEL name="nmoeini/php:7.1-bionic-v0.1.0" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.0"
+LABEL name="nmoeini/php:7.1-bionic-20200807" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.1"
 
 ARG DEBIAN_FRONTEND
 ARG PHP_VERSION
