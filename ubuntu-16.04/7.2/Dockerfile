@@ -1,6 +1,6 @@
-FROM ubuntu:xenial-20200706
+FROM ubuntu:xenial-20200807
 
-LABEL name="nmoeini/php:7.2-xenial-20200706" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.0"
+LABEL name="nmoeini/php:7.2-xenial-20200807" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.1"
 
 ARG DEBIAN_FRONTEND
 ARG PHP_VERSION
