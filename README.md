@@ -1,5 +1,5 @@
 # About this repository
- This repository is contained Dockerfile and material for building images of PHP on official Ubuntu docker images.
+ This repository is contained Dockerfile and material for building images of PHP on official docker images.
  
 # How to use these images
 
